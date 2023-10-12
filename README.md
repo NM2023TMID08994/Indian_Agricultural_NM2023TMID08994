@@ -7,4 +7,3 @@ Link for demo video
 Link for Tableau public
 
  https://public.tableau.com/app/profile/tharma.raj/vizzes
-
